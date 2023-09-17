@@ -109,5 +109,7 @@ JSON(JavaScript Object Notation)
 https://hanamon.kr/nodejs-%EA%B0%9C%EB%85%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/
 
 5. SPA 프레임워크의 뜻을 알아오시오
-
+SPA : Single Page Application
+어떠한 웹 사이트의 전체 페이지를 하나의 페이지에 담아 동적으로 화면을 변경해 표시하는 기술
+서버 호출이 적은 관계로 속도가 매우 빠르고 트래픽이 적다는 장점을 가짐
 
